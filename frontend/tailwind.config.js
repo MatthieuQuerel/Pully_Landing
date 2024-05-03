@@ -5,10 +5,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'pully-red': '#EB4651',
-        'pully-yellow': '#F4B322',
-        'pully-black': '#000000',
-        'pully-white': '#FFFFFF'
+        'puly-red': '#EB4651',
+        'puly-yellow': '#F4B322',
+        'puly-black': '#000000',
+        'puly-white': '#FFFFFF'
       }
     }
   },
