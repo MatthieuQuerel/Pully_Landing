@@ -1,0 +1,25 @@
+/* customSlider.css */
+
+.slick-slide {
+    padding: 0 10px; /* Adjust the padding value as needed */
+  }
+  
+.slick-dots {
+    margin-bottom: -2em; /* Adjust this value to move dots further from the cards */
+}
+
+.slick-dots li button:before {
+    font-size: 12px;
+    color: #F4B322; /* Change the color of the dots */
+}
+
+.slick-dots li.slick-active button:before {
+    color: #F4B322; /* Change the color of the active dot */
+    transform: scale(1.5); /* Increase the size of the active dot */
+    transition: transform 0.3s ease;
+}
+
+.slick-dots li button:before {
+    transition: transform 0.3s ease;
+}
+  
