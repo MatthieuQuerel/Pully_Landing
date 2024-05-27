@@ -11,7 +11,6 @@ function FAQCard ({ question, answer }) {
   )
 }
 
-
 function FAQCarousel () {
   const settings = {
     dots: true,
