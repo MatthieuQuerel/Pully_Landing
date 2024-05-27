@@ -2,7 +2,7 @@ import Slider from 'react-slick'
 
 function FAQCard ({ question, answer }) {
   return (
-    <div className='bg-puly-yellow shadow-md rounded-md p-4 flex flex-col justify-center h-full mx-4'>
+    <div className='bg-puly-white shadow-md rounded-md p-4 flex flex-col justify-center h-full mx-4'>
       <div className='text-center'>
         <h3 className='font-bold text-lg px-6'>{question}</h3>
         <p className='text-gray-600 px-6'>{answer}</p>

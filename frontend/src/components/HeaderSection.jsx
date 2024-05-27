@@ -1,6 +1,6 @@
 function HeaderSection () {
   return (
-    <div className='drop-shadow-md bg-puly-white flex justify-between items-center p-5 px-20'>
+    <div className='drop-shadow-md bg-puly-white flex justify-between items-center p-1 px-20'>
       <div>
         <img src='/images/logo.svg' alt='Nipto Logo' className='h-16 mr-4' />
       </div>
