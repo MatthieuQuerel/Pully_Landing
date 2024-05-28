@@ -1,12 +1,18 @@
-import React from 'react';
-import LandingPage from './components/LandingPage';
+import React from 'react'
+import LandingPage from './components/LandingPage.jsx'
+import Blog from './Page/Blog.jsx'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
-function App() {
+function App () {
   return (
-    <div className="App">
-      <LandingPage />
-    </div>
-  );
+    <Router>
+      <div className='App'>
+        <Routes>
+          <Route path='/' exact element={<LandingPage />} />
+          <Route path='/blog' exact element={<Blog />} />
+        </Routes>
+      </div>
+    </Router>
+  )
 }
-
-export default App;
+export default App

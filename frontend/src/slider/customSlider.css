@@ -23,3 +23,22 @@
     transition: transform 0.3s ease;
 }
   
+.bg-puly-white {
+    background-color: #ffffff;
+  }
+  
+  .hover\\:bg-puly-red:hover {
+    background-color: #ff0000;
+  }
+  
+  .hover\\:text-puly-white:hover {
+    color: #ffffff;
+  }
+  .button-container {
+    display: flex;
+  }
+  
+  .button-container a {
+    margin-right: 10px; /* Espacement entre les boutons */
+  }
+  
