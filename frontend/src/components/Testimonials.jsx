@@ -50,13 +50,13 @@ function FAQTestimonial () {
         <div className='flex items-stretch'>
           <TestimonialCard
             name='Joselyn Starr'
-            text='Oui, nous avons conçu notre application pour être intuitive et facile à naviguer pour tous les utilisateurs, quel que soit leur niveau de confort avec la technologie.'
+            text=" Depuis que nous utilisons Puly, nos enfants sont bien plus motivés à faire leurs devoirs et à aider à la maison. Ils savent qu'ils méritent leurs récompenses. Cela a vraiment simplifié notre routine par apport aux tâches quotidiennes !"
           />
         </div>
         <div className='flex items-stretch'>
           <TestimonialCard
             name='Louis Chen'
-            text='Oui, nous avons conçu notre application pour être intuitive et facile à naviguer pour tous les utilisateurs, quel que soit leur niveau de confort avec la technologie.'
+            text="Puly a transformé la façon dont nous gérons les tâches ménagères. Lucas est maintenant impatient de terminer ses tâches pour gagner des points. L'application a rendu notre vie de famille plus harmonieuse et organisée."
           />
         </div>
       </Slider>

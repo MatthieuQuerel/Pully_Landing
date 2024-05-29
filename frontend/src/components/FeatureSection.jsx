@@ -13,18 +13,18 @@ function FeatureSection () {
     <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4'>
       <FeatureCard
         img='/images/puly-icon-02.svg'
-        title='Customize your chores list & value'
-        description='Build your own chores list & organize them into multiple customizable categories.'
+        title="Personnalisez vos tâches et prédéfinissez les points qu'elles rapportent"
+        description="Vous pouvez personnalisez les tâches que votre enfant doit réaliser tout au long de la semaine pour lui permettre d'obtenir des récompenses."
       />
       <FeatureCard
         img='/images/puly-icon-03.svg'
-        title='Track achievements & earn points'
-        description='Track the chores done by every team members and monitor their participation throughout the week.'
+        title="Suivez l'implication de votre enfant aux tâches quotidiennes"
+        description="Grâce au compte parent, suivez l'avancement de votre enfant sur ses tâches à réaliser et attribuez lui ses récompenses !"
       />
       <FeatureCard
         img='/images/puly-icon-04.svg'
-        title='Monitor your team members scores'
-        description='View the participation of all team members with the weekly leaderboard.'
+        title='Rendez votre enfant autonome'
+        description=' Grâce à Puly, votre enfant deviendra de plus en plus autonome et aura le sens des priorités.'
       />
     </div>
   )

@@ -49,14 +49,14 @@ function FAQCarousel () {
       <Slider {...settings}>
         <div className='flex items-stretch'>
           <FAQCard
-            question="Comment l'application sélectionne-t-elle les agriculteurs et les produits ?"
-            answer="Nous avons un processus rigoureux pour choisir des agriculteurs qui respectent des normes élevées de qualité et d'éthique. Nous évaluons leur engagement envers les pratiques agricoles durables et la qualité des produits."
+            question='Comment Puly motive les enfants à faire leurs tâches ?'
+            answer='Puly utilise un système de récompense ludique où les enfants gagnent des points pour chaque tâche accomplie. Ces points peuvent ensuite être échangés contre des récompenses personnalisées, ce qui les motive à participer activement aux tâches quotidiennes.'
           />
         </div>
         <div className='flex items-stretch'>
           <FAQCard
-            question="L'application est-elle facile à utiliser pour les personnes moins technophiles ?"
-            answer='Oui, nous avons conçu notre application pour être intuitive et facile à naviguer pour tous les utilisateurs, quel que soit leur niveau de confort avec la technologie.'
+            question='Est-ce que Puly est adapté à tous les âges ?'
+            answer="Oui, Puly est conçu pour être flexible et s'adapter aux enfants de tous âges. Vous pouvez personnaliser les tâches et les récompenses en fonction de l'âge et des capacités de chaque enfant, rendant l'application efficace pour toute la famille."
           />
         </div>
       </Slider>

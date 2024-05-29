@@ -8,6 +8,9 @@ function Blog () {
     <div className='bg-puly-white p-3'>
       <HeaderSection />
       <main className='mt-7'>
+        <div className='flex justify-center'>
+          <img src='/images/father-cleaning-along-son.jpg' alt='Puly-Mockup' className='w-3/4 md:w-1/2 lg:w-1/4' />
+        </div>
         <h1 className='text-4xl font-bold mb-4'>Faire le ménage avec ses enfants : Le guide de Puly</h1>
         <p className='mb-4'>
           Ordonner à votre enfant de ranger ses jouets, à votre ado de mettre de l’ordre dans sa chambre ou de faire la vaisselle s’avère souvent infructueux. Pour encourager votre enfant à participer aux tâches ménagères, il faut adopter une méthode adaptée. Voici comment Puly, notre application de gestion des tâches, peut vous aider.
