@@ -9,7 +9,7 @@ function HeroSection () {
         <a href='#' className='inline-block drop-shadow hover:bg-white hover:text-black bg-puly-yellow text-puly-white text-sm font-bold py-3 px-4 rounded-md'>Obtenez notre application sur le Play Store</a>
       </div>
       <div className='flex-1'>
-        <img src='/images/header-iphone-mockups-2.webp' alt='Puly - Mockup' className='w-11/12' />
+        <img src='/images/Header.webp' alt='Puly - Mockup' className='w-11/12' />
       </div>
     </div>
   )
